@@ -17,6 +17,7 @@ cp -r .moc $HOME/
 cp -r picom.conf $HOME/.config/
 cp -r sddm $HOME/.config/
 cp -r zathura $HOME/.config/
+cp -r fonts $HOME/.local/share/
 cd ../
 rm -rf awesome-dots
 
