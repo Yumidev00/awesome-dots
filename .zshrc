@@ -2,7 +2,7 @@
 # --------------------------
 
 # Prompt
-PS1="%F{blue}%B%~%b%f %F{207}%Bⵃ%b%f "
+PS1="%F{green}%B{}%b%f %F{207}%B%~%b%f "
 export EDITOR=nvim
 
 # Aliases
